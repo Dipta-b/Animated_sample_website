@@ -14,11 +14,11 @@ const Feedback = () => {
       <div className="">
         <Typewriter
           options={{
-            strings: ["I am a student of University..."],
+            strings: ["I am a student of University and I am a frontend developer..."],
             autoStart: true,
             loop: true,
             delay: 200,
-            
+
           }}
         />
         {/* stringSplitter: (text) => text.split(""), */}
